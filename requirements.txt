@@ -3,5 +3,5 @@ psycopg2==2.6.1
 django-extensions==1.6.7
 django-languages==0.1
 djangorestframework==3.3.3
-gunicorn==19.4.5
+gunicorn==19.5.0
 dj-database-url==0.4.1

@@ -1,4 +1,4 @@
-Django==1.9.7
+Django==1.11.29
 psycopg2==2.6.1
 django-extensions==1.6.7
 django-languages==0.1
